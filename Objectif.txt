@@ -1,0 +1,11 @@
+                                                Version 1.0
+Création du bot: V
+Système de musique: V 
+Système de queue pour la musique: V
+
+                                                Version 2.0
+Help command: V
+AutoRun: X
+
+                                                Version 3.0
+Improving some commands: X
